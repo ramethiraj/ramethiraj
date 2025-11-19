@@ -46,7 +46,7 @@ I turn complex business requirements into **secure, scalable, maintainable platf
 - 🔐 Implemented secure PHI/PII orchestration with field-level governance controls  
 - 🚀 Built an approval orchestration engine scaling to **20× throughput**  
 - 📊 Migrated analytics workloads to Azure — **~40% performance improvement**  
-- 🏅 Recognized under **Technology Leadership Career Path (Top 1% Engineers)**
+- 🏅 Recognized under **Technology Leadership Career Path**
 
 ---
 
