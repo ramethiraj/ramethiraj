@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi 👋 I'm **Ramkumar Ethiraj**
 
-<!--
-**ramethiraj/ramethiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Principal Software Engineer | Cloud & Platform Architecture | Azure | Java
 
-Here are some ideas to get you started:
+ [LinkedIn](https://linkedin.com/in/ramkumarethiraj) • [GitHub](https://github.com/ramethiraj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+Principal Software Engineer with 11+ years of experience designing, architecting, and scaling enterprise systems across cloud modernization, pricing platforms, clinical analytics, and distributed data orchestration.
+
+I specialize in:
+- Cloud-native architecture (Azure-first)
+- High-scale distributed systems
+- Java & Spring Boot engineering
+- Secure data flows for regulated workloads (PHI/PII)
+- CI/CD automation & platform governance
+- Performance optimization & platform modernization
+
+I turn complex business requirements into **secure, scalable, maintainable platforms**.
+
+---
+
+## 🧠 Core Technical Expertise
+
+**Cloud & Distributed Systems**
+- Azure AKS · Key Vault · Data Factory  
+- Azure Synapse · Azure Databricks · Delta Lake  
+- Blob Storage · Kubernetes
+
+**Backend & Architecture**
+- Java · Spring Boot · Spring Security  
+- API Design · Microservices · AuthN/AuthZ (JWT, OAuth)
+
+**Data & Analytics**
+- Spark ETL · Netezza · PostgreSQL  
+- Data federation, lineage, and performance tuning
+
+**DevOps / CI-CD**
+- GitHub Actions · Terraform · Observability & Logging Architecture
+
+---
+
+## 📈 Career Highlights (Non-sensitive)
+- ⚙️ Modernized a large-scale pricing platform — **30% faster CI/CD** and improved release reliability  
+- 🔐 Implemented secure PHI/PII orchestration with field-level governance controls  
+- 🚀 Built an approval orchestration engine scaling to **20× throughput**  
+- 📊 Migrated analytics workloads to Azure — **~40% performance improvement**  
+- 🏅 Recognized under **Technology Leadership Career Path (Top 1% Engineers)**
+
+---
+
+## 🧭 Career Timeline
+
+| Year(s) | Focus / Role |
+|---:|---|
+| **2014** | Began professional career in application development (Java, SQL) |
+| **2017** | Big Data & Distributed Systems — MapR, ETL, high-volume processing |
+| **2018–2022** | Cloud analytics & clinical trials modernization (Azure Synapse, Databricks) |
+| **2022–Present** | Enterprise architecture, security governance, and platform modernization; Principal Software Engineer role leading pricing & orchestration platforms |
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,azure,kubernetes,githubactions,terraform,postgres,git,linux" height="48" alt="tech icons" />
+</p>
+
+---
+
+## 📂 Selected Projects (Short)
+
+**Pricing Platform Modernization**  
+- Unified microservice infrastructure, centralized security modules, AKS deployment, GitHub Actions-based CI/CD, Key Vault integration.
+
+**Clinical Trials Analytics**  
+- Migrated analytics to Azure Synapse & Databricks, implemented data lineage and governance for PHI.
+
+**MapR Optimization**  
+- Rewrote MapReduce flows and utilities to achieve **4× performance improvement** for retention jobs.
+
+---
+
+## 📫 Contact & Links
+- **LinkedIn:** https://linkedin.com/in/ramkumarethiraj  
+- **GitHub:** https://github.com/ramethiraj
+
+---
+
+## ✨ Motto
+> *Architecture is not what we build — it is what we enable.*
+
+---
