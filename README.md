@@ -41,7 +41,7 @@ I turn complex business requirements into **secure, scalable, maintainable platf
 
 ---
 
-## 📈 Career Highlights (Non-sensitive)
+## 📈 Career Highlights
 - ⚙️ Modernized a large-scale pricing platform — **30% faster CI/CD** and improved release reliability  
 - 🔐 Implemented secure PHI/PII orchestration with field-level governance controls  
 - 🚀 Built an approval orchestration engine scaling to **20× throughput**  
@@ -64,12 +64,12 @@ I turn complex business requirements into **secure, scalable, maintainable platf
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,azure,kubernetes,githubactions,terraform,postgres,git,linux" height="48" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,azure,kubernetes,githubactions,terraform,postgres,git,linux,MapR" height="48" alt="tech icons" />
 </p>
 
 ---
 
-## 📂 Selected Projects (Short)
+## 📂 Selected Projects
 
 **Pricing Platform Modernization**  
 - Unified microservice infrastructure, centralized security modules, AKS deployment, GitHub Actions-based CI/CD, Key Vault integration.
