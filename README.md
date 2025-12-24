@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Ramkumar ** @RMKR
+# Hi 👋 I'm Ramkumar % RMKR
 
 ### Principal Software Engineer | Cloud & Platform Architecture | Azure | Java
 
