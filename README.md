@@ -76,6 +76,6 @@ I turn complex business requirements into **secure, scalable, maintainable platf
 ---
 
 ## ✨ Motto
-> *Architecture is not what we build — it is what we enable.*
+> *Architecture is not what we build, it is what we enable.*
 
 ---
