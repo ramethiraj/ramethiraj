@@ -69,19 +69,6 @@ I turn complex business requirements into **secure, scalable, maintainable platf
 
 ---
 
-## 📂 Selected Projects
-
-**Pricing Platform Modernization**  
-- Unified microservice infrastructure, centralized security modules, AKS deployment, GitHub Actions-based CI/CD, Key Vault integration.
-
-**Clinical Trials Analytics**  
-- Migrated analytics to Azure Synapse & Databricks, implemented data lineage and governance for PHI.
-
-**MapR Optimization**  
-- Rewrote MapReduce flows and utilities to achieve **4× performance improvement** for retention jobs.
-
----
-
 ## 📫 Contact & Links
 - **LinkedIn:** https://linkedin.com/in/ramkumarethiraj  
 - **GitHub:** https://github.com/ramethiraj
